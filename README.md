@@ -1,2 +1,1 @@
-hello,
-the one piece is real!
+The one piece is real!
