@@ -1,1 +1,9 @@
+welcome=input("enter welcome message")
+print("hello everyone")
+print("your meg is")
+print(welcome)
+mesg="hello"
+
 hello 
+how are you 
+i am fine
